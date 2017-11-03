@@ -21,6 +21,7 @@ body {
 
 .layer img {
     width: 100vw;
+    height: auto;
     position: absolute;
     top: 0;
     left: 0;
